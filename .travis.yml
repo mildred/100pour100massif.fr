@@ -4,16 +4,16 @@ services:
 git:
   submodules: false
 before_script:
+  - echo $DEPLOY_KEY | base64 -d > id_ed25519
+  - chmod 600 id_ed25519
+  - eval "$(ssh-agent -s)" #start the ssh agent
   - git submodule update --init || true because landing-page-hugo has infinite recursion of submodules
-  - docker build -t imagemagick -f Dockerfile.imagemagick .
   - (cd publish && git remote remove origin; git remote add origin git@github.com:mildred/100pour100massif.fr.git; git fetch origin; git checkout -t origin/gh-pages)
+  - docker build -t imagemagick -f Dockerfile.imagemagick .
 script:
   - pwd
   - ./createbook.sh
   - ./build.sh
 after_success:
-  - echo $DEPLOY_KEY | base64 -d > id_ed25519
-  - chmod 600 id_ed25519
-  - eval "$(ssh-agent -s)" #start the ssh agent
   - ssh-add id_ed25519
   - ./deploy.sh
