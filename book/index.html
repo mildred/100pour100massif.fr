@@ -1,0 +1,89 @@
+<h1>Book</h1>
+
+<div class="gallery" itemscope itemtype="http://schema.org/ImageGallery">
+
+
+
+
+<figure itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/gallery/20151118_141315.jpg" itemprop="contentUrl" data-size="2048x1536">
+      <img src="/images/gallery/20151118_141315.thumbnail.jpg" itemprop="thumbnail" alt="" />
+  </a>
+
+
+  <figcaption itemprop="caption description">
+    
+    <span itemprop="copyrightHolder"></span>
+  </figcaption>
+</figure>
+
+
+<div class="title">Example gallery</div>
+</div>
+
+
+<link rel="stylesheet" href="/dist/PhotoSwipe/photoswipe.css">
+<link rel="stylesheet" href="/dist/PhotoSwipe/default-skin/default-skin.css">
+<script src="/dist/PhotoSwipe/photoswipe.min.js"></script>
+<script src="/dist/PhotoSwipe/photoswipe-ui-default.min.js"></script>
+<script src="/js/initphotoswipe.js"></script>
+
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+
+<style>
+    .gallery { float: right; }
+    .gallery img { width: 100%; height: auto; }
+    .gallery figure { display: block; float: left; margin: 0 5px 5px 0; width: 80px; }
+    .gallery figcaption { display: none; }
+    span[itemprop="copyrightHolder"] { color : #888; float: right; }
+    span[itemprop="copyrightHolder"]:before { content: "Foto: "; }
+</style>
+
+
+<script>initPhotoSwipeFromDOM('.gallery');</script>
+
