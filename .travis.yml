@@ -2,7 +2,7 @@ sudo: required
 services:
   - docker
 script:
-  - git submodule update --init --recursive
+  - git submodule update --init
   - docker build -t imagemagick -f Dockerfile.imagemagick
   - ./createbook.sh
   - ./build.sh
