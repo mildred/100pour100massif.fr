@@ -9,7 +9,7 @@ before_script:
   - eval "$(ssh-agent -s)" #start the ssh agent
   - ssh-add id_ed25519
   - git submodule update --init || true because landing-page-hugo has infinite recursion of submodules
-  - (cd publish && git remote remove origin; git remote add origin git@github.com:mildred/100pour100massif.fr.git; git fetch origin; git checkout -t origin/gh-pages)
+  - rm -rf publish && git clone -b gh-pages git@github.com:mildred/100pour100massif.fr.git publish
   - docker build -t imagemagick -f Dockerfile.imagemagick .
 script:
   - pwd
