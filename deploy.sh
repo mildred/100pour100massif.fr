@@ -14,4 +14,5 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-git push origin HEAD
+git remote -v
+git push git@github.com:mildred/100pour100massif.fr.git HEAD
