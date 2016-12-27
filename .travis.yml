@@ -5,7 +5,7 @@ git:
   submodules: false
 script:
   - git submodule update --init
-  - docker build -t imagemagick -f Dockerfile.imagemagick
+  - docker build -t imagemagick -f Dockerfile.imagemagick .
   - ./createbook.sh
   - ./build.sh
 after_success:
