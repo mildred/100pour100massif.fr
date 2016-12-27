@@ -6,5 +6,5 @@ publishDir: publish
 theme: landing-page-hugo
 params:
   custom_css:
-    - css/style.css
+    - /css/style.css
 ...
