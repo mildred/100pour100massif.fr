@@ -3,4 +3,5 @@ disablePathToLower: true
 languageCode: fr-fr
 title: 100% Massif
 publishDir: publish
+theme: landing-page-hugo
 ...
