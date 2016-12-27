@@ -4,7 +4,7 @@ services:
 git:
   submodules: false
 script:
-  - git submodule update --init
+  - git submodule update --init || true because landing-page-hugo has infinite recursion of submodules
   - docker build -t imagemagick -f Dockerfile.imagemagick .
   - ./createbook.sh
   - ./build.sh
