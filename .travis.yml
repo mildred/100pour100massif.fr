@@ -6,7 +6,7 @@ git:
 before_script:
   - git submodule update --init || true because landing-page-hugo has infinite recursion of submodules
   - docker build -t imagemagick -f Dockerfile.imagemagick .
-  - (cd publish && git checkout gh-pages)
+  - (cd publish && git remote remove origin; git remote add origin git@github.com:mildred/100pour100massif.fr.git; git fetch origin; git checkout -t origin/gh-pages)
 script:
   - pwd
   - ./createbook.sh
