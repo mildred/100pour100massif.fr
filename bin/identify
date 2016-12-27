@@ -1,0 +1,2 @@
+#!/bin/sh
+exec docker run --rm -u $(id -u):$(id -g) -v "$PWD:$PWD" -w "$PWD" imagemagick "${0##*/}" "$@"

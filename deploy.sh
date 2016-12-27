@@ -2,9 +2,6 @@
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
-# Build the project.
-hugo
-
 # Add changes to git.
 cd publish
 git add -A
