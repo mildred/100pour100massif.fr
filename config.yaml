@@ -1,8 +1,6 @@
-baseurl: http://100pour100massif.fr/
+baseURL: http://100pour100massif.fr
+disablePathToLower: true
 languageCode: fr-fr
 title: 100% Massif
 publishDir: publish
-galleryprefix: "http://res.cloudinary.com/thehome-dk/image/upload"
-galleryfolder: "gallery-1"
-gallerythumbnail: "t_thumbnail"
 ...
