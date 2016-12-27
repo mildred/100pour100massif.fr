@@ -11,5 +11,6 @@ script:
 after_success:
   - echo $DEPLOY_KEY | base64 -d > id_ed25519
   - chmod 600 id_ed25519
+  - eval "$(ssh-agent -s)" #start the ssh agent
   - ssh-add id_ed25519
   - ./deploy.sh
