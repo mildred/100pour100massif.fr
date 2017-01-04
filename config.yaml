@@ -7,4 +7,10 @@ theme: landing-page-hugo
 params:
   custom_css:
     - /css/style.css
+  custom_js:
+    - /js/style.js
+  social:
+    - title: "email"
+      icon: "envelope-o"
+      url: "mailto:elie.lombard+web@free.fr"
 ...

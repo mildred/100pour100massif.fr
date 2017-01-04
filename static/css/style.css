@@ -1,6 +1,22 @@
 .navbar-brand {
   background: url(../images/logo1-300x150.png) no-repeat;
+  transition: all 0.4s ease-in-out;
+  text-indent: -9999px;
+  background-size: auto 50px;
+  width: 100px;
+  height: 50px;
+}
+html.scroll-top .navbar-brand {
   width: 300px;
   height: 150px;
-  text-indent: -9999px;
+  background-size: auto 150px;
+}
+
+body {
+  transition: all 0.4s ease-in-out;
+  padding-top: 50px
+}
+
+html.scroll-top body {
+  padding-top: 150px
 }
