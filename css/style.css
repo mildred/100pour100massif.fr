@@ -20,3 +20,25 @@ body {
 html.scroll-top body {
   padding-top: 150px
 }
+
+footer {
+  clear: both;
+}
+
+.intro-message > h1,
+h1, h2, h3, h4, h5,
+ul.navbar-nav, footer ul.list-inline {
+  font-family: "Trajan";
+}
+
+@font-face {
+  font-family: "Trajan";
+  font-weight: normal;
+  src: url(/fonts/TrajanPro-Regular.ttf);
+}
+
+@font-face {
+  font-family: "Trajan";
+  font-weight: bold;
+  src: url(/fonts/TrajanPro-Bold.ttf);
+}
