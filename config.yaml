@@ -12,5 +12,8 @@ params:
   social:
     - title: "email"
       icon: "envelope-o"
-      url: "mailto:elie.lombard+web@free.fr"
+      url: "mailto:contact@100pour100massif.fr"
+    - title: "téléphone : 06 50 99 99 41"
+      icon: "phone"
+      url: "tel:+33-6-50-99-99-41"
 ...

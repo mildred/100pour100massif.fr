@@ -3,8 +3,8 @@
 cd "$(dirname "$0")"
 export PATH="$PATH:$PWD/bin"
 
-prefix="$(sed -e '/galleryimage/,// d' content/book.html)"
-suffix="$(sed -e '0,/\/gallery/ d' content/book.html)"
+prefix="$(sed -e '/galleryimage/,// d' content/photos.html)"
+suffix="$(sed -e '0,/\/gallery/ d' content/photos.html)"
 images=()
 
 for image in static/images/gallery/*; do
@@ -42,7 +42,7 @@ for image in static/images/gallery/*; do
   images+=("{{% galleryimage file=\"$image\" size=\"$size\" thumbnail=\"$thumbnail\" caption=\"$caption\" copyrightHolder=\"$copyright\" %}}")
 done
 
-exec >content/book.html
+exec >content/photos.html
 echo "$prefix"
 for line in "${images[@]}"; do
   echo "$line"
