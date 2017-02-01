@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Comment=
+Terminal=false
+Name=Site Intéractif 100% Massif
+Exec=gnome-terminal -e "/home/ellomb/Documents/100pour100massif.fr/site_interactif.sh"
+Type=Application
+Icon=gnome-panel-launcher
+
