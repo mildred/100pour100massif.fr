@@ -79,6 +79,7 @@ while true; do
 			exec "$0" "$@"
 			;;
 		0)
+			tmux kill-window -a
 			exit 0
 			;;
 		1)
