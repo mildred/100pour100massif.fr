@@ -27,6 +27,7 @@ var initPhotoSwipeFromDOM = function(gallerySelector) {
             // create slide object
             item = {
                 src: linkEl.getAttribute('href'),
+                exif_orientation: linkEl.getAttribute('data-orientation'),
                 w: parseInt(size[0], 10),
                 h: parseInt(size[1], 10)
             };

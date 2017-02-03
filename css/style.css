@@ -14,11 +14,11 @@ html.scroll-top .navbar-brand {
 
 body {
   transition: all 0.4s ease-in-out;
-  padding-top: 50px
+  padding-top: 150px
 }
 
 html.scroll-top body {
-  padding-top: 150px
+  padding-top: 250px
 }
 
 footer {
