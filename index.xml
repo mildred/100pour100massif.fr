@@ -556,11 +556,11 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;style&gt;
     .gallery { float: left; }
-    .gallery img { width: auto; height: 150px; }
-    .gallery figure { display: block; float: left; margin: 0 5px 5px 0; width: auto; }
+    .gallery img { width: 100%; height: auto; }
+    .gallery figure { display: block; float: left; margin: 0 5px 5px 0; width: 80px; }
     .gallery figcaption { display: none; }
     span[itemprop=&#34;copyrightHolder&#34;] { color : #888; float: right; }
-    span[itemprop=&#34;copyrightHolder&#34;]:before { content: &#34;Photo : &#34;; }
+    span[itemprop=&#34;copyrightHolder&#34;]:before { content: &#34;Foto: &#34;; }
 &lt;/style&gt;
 
 
