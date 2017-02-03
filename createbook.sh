@@ -3,9 +3,19 @@
 cd "$(dirname "$0")"
 export PATH="$PATH:$PWD/bin"
 
-prefix="$(sed -e '/galleryimage/,// d' content/photos.html)"
-suffix="$(sed -e '0,/\/gallery/ d' content/photos.html)"
+prefix="$(sed -n -e '0,/gallery title/ p' content/photos.html)"
+suffix="$(sed -n -e '/< .gallery/,// p' content/photos.html)"
 images=()
+
+for image in static/images/gallery/*; do
+  case "$image" in
+    *.thumbnail.*)
+      if ! [ -e "${image//.thumbnail./.}" ]; then
+        rm -f "$image"
+      fi
+      ;;
+  esac
+done
 
 for image in static/images/gallery/*; do
   case "$image" in
@@ -18,13 +28,14 @@ for image in static/images/gallery/*; do
   copyright="${image%.*}.copyright.txt"
   thumbnail="${image%.*}.thumbnail.${image##*.}"
   size="$(identify -ping -format "%wx%h" "$image")"
+  orient="$(identify -verbose "$image" | grep exif:Orientation | xargs sh -c 'echo "$1"')"
 
   if ! [[ -e "$copyright" ]]; then
     copyright="${image%/*}/copyright.txt"
   fi
 
-  if ! [[ "$image" -ot "$thumbnail" ]]; then
-    convert -quiet "$image" -thumbnail 250x250 +repage -unsharp 0x.5 -quality 80 "$thumbnail"
+  if ! [[ "$image" -ot "$thumbnail" ]] || [[ "$1" -nt "$thumbnail" ]]; then
+    convert -quiet "$image" -thumbnail 250x250 +repage -unsharp 0x.5 -quality 80 -auto-orient "$thumbnail"
   fi
 
   if [[ -e "$copyright" ]]; then
@@ -39,12 +50,24 @@ for image in static/images/gallery/*; do
   fi
   image="/${image#static/}"
   thumbnail="/${thumbnail#static/}"
-  images+=("{{% galleryimage file=\"$image\" size=\"$size\" thumbnail=\"$thumbnail\" caption=\"$caption\" copyrightHolder=\"$copyright\" %}}")
+  images+=("{{% galleryimage file=\"$image\" size=\"$size\" thumbnail=\"$thumbnail\" caption=\"$caption\" copyrightHolder=\"$copyright\" orientation=\"$orient\" %}}")
+  echo "$image"
 done
 
-exec >content/photos.html
+tmpfile=/tmp/$$
+
+(
 echo "$prefix"
+echo "<!-- gallery -->"
 for line in "${images[@]}"; do
   echo "$line"
 done
+echo "<!-- end gallery -->"
 echo "$suffix"
+) >"$tmpfile"
+
+if ! cmp "$tmpfile" content/photos.html >/dev/null; then
+  mv "$tmpfile" content/photos.html
+else
+  rm -f "$tmpfile"
+fi
