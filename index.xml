@@ -544,6 +544,111 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
   &lt;/figcaption&gt;
 &lt;/figure&gt;
 
+
+
+
+&lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+  &lt;a href=&#34;http://100pour100massif.fr/images/gallery/23.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3264x2448&#34; data-orientation=&#34;1&#34;&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/23.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+  &lt;/a&gt;
+
+
+  &lt;figcaption itemprop=&#34;caption description&#34;&gt;
+    
+    &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+
+
+&lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+  &lt;a href=&#34;http://100pour100massif.fr/images/gallery/24.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3264x2448&#34; data-orientation=&#34;1&#34;&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/24.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+  &lt;/a&gt;
+
+
+  &lt;figcaption itemprop=&#34;caption description&#34;&gt;
+    
+    &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+
+
+&lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+  &lt;a href=&#34;http://100pour100massif.fr/images/gallery/26.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;5184x3456&#34; data-orientation=&#34;1&#34;&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/26.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+  &lt;/a&gt;
+
+
+  &lt;figcaption itemprop=&#34;caption description&#34;&gt;
+    
+    &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+
+
+&lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+  &lt;a href=&#34;http://100pour100massif.fr/images/gallery/27.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;5184x3456&#34; data-orientation=&#34;1&#34;&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/27.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+  &lt;/a&gt;
+
+
+  &lt;figcaption itemprop=&#34;caption description&#34;&gt;
+    
+    &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+
+
+&lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+  &lt;a href=&#34;http://100pour100massif.fr/images/gallery/28.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;5184x3456&#34; data-orientation=&#34;1&#34;&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/28.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+  &lt;/a&gt;
+
+
+  &lt;figcaption itemprop=&#34;caption description&#34;&gt;
+    
+    &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+
+
+&lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+  &lt;a href=&#34;http://100pour100massif.fr/images/gallery/29.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;5184x3456&#34; data-orientation=&#34;1&#34;&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/29.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+  &lt;/a&gt;
+
+
+  &lt;figcaption itemprop=&#34;caption description&#34;&gt;
+    
+    &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+
+
+&lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+  &lt;a href=&#34;http://100pour100massif.fr/images/gallery/30.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;5184x3456&#34; data-orientation=&#34;1&#34;&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/30.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+  &lt;/a&gt;
+
+
+  &lt;figcaption itemprop=&#34;caption description&#34;&gt;
+    
+    &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
 &lt;!-- end gallery --&gt;
 
 &lt;div class=&#34;title&#34;&gt;&lt;/div&gt;
