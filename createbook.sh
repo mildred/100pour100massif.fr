@@ -39,12 +39,12 @@ for image in static/images/gallery/*; do
   fi
 
   if [[ -e "$copyright" ]]; then
-    copyright="$(cat "$copyright")"
+    copyright="$(cat "$copyright" | tr '\n' ' ')"
   else
     copyright=
   fi
   if [[ -e "$caption" ]]; then
-    caption="$(cat "$caption")"
+    caption="$(cat "$caption" | tr '\n' ' ')"
   else
     caption=
   fi
