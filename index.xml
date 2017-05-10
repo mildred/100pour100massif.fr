@@ -204,12 +204,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/01.jpg&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;2048x1536&#34; data-orientation=&#34;8&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/01.thumbnail.jpg&#34; itemprop=&#34;thumbnail&#34; alt=&#34;33&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/01.thumbnail.jpg&#34; itemprop=&#34;thumbnail&#34; alt=&#34;escalier hélicoïdal à limon central. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    33
+    escalier hélicoïdal à limon central. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -219,12 +219,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/02.jpg&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;2048x1536&#34; data-orientation=&#34;8&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/02.thumbnail.jpg&#34; itemprop=&#34;thumbnail&#34; alt=&#34;33&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/02.thumbnail.jpg&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Deux travées l&amp;#39;une sur l&amp;#39;autre. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    33
+    Deux travées l&amp;#39;une sur l&amp;#39;autre. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -233,13 +233,13 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-  &lt;a href=&#34;http://100pour100massif.fr/images/gallery/03a.jpg&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;2048x1536&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/03a.thumbnail.jpg&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+  &lt;a href=&#34;http://100pour100massif.fr/images/gallery/03a.jpg&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;2048x1536&#34; data-orientation=&#34;8&#34;&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/03a.thumbnail.jpg&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Limon entaillé et en frêne massif et marches assemblées. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Limon entaillé et en frêne massif et marches assemblées. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -248,13 +248,13 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-  &lt;a href=&#34;http://100pour100massif.fr/images/gallery/03.jpg&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;2048x1536&#34; data-orientation=&#34;8&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/03.thumbnail.jpg&#34; itemprop=&#34;thumbnail&#34; alt=&#34;3&#34; /&gt;
+  &lt;a href=&#34;http://100pour100massif.fr/images/gallery/03b.jpg&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;2048x1536&#34; data-orientation=&#34;1&#34;&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/03b.thumbnail.jpg&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Limon effectué en lamellé collé sur moule. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    3
+    Limon effectué en lamellé collé sur moule. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -264,12 +264,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/04.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;8&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/04.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;33&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/04.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;33 &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    33
+    33 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -279,12 +279,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/05.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;6&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/05.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Prises incrustées et double fond-étagère.&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/05.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Prises incrustées et double fond-étagère. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    Prises incrustées et double fond-étagère.
+    Prises incrustées et double fond-étagère. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -309,12 +309,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/07.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;8&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/07.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/07.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;lave mains en frêne massif et vasque en basalte. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    lave mains en frêne massif et vasque en basalte. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -324,12 +324,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/08.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;8&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/08.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/08.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;tablier de baignoire en frêne lamellé collé. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    tablier de baignoire en frêne lamellé collé. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -339,12 +339,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/09a1.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;6&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/09a1.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/09a1.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;toilettes sèches en frêne massif,compartiment à copeaux. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    toilettes sèches en frêne massif,compartiment à copeaux. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -354,12 +354,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/09a.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/09a.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/09a.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Finition vernis polyuréthane. Vernis bateau étanche. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Finition vernis polyuréthane. Vernis bateau étanche. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -369,12 +369,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/09b.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;6&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/09b.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/09b.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Meuble de salle de bains en frêne vernis PU. Bandeau lumineux en placage bois.  &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Meuble de salle de bains en frêne vernis PU. Bandeau lumineux en placage bois.  
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -384,12 +384,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/09c.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/09c.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/09c.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Meuble vasque à tiroirs et portes sur amortisseurs. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Meuble vasque à tiroirs et portes sur amortisseurs. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -399,12 +399,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/09d.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/09d.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/09d.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Plan vasque assemblé et vernis étanche. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Plan vasque assemblé et vernis étanche. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -414,12 +414,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/09e.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/09e.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/09e.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Compartiments en bois et assemblage du tiroir par queues d&amp;#39;arronde. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Compartiments en bois et assemblage du tiroir par queues d&amp;#39;arronde. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -429,12 +429,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/10a.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;6&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/10a.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/10a.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Porte intérieure chataigner massif isolée en double panneaux et liège en sandwitch. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Porte intérieure chataigner massif isolée en double panneaux et liège en sandwitch. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -444,12 +444,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/10b.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;6&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/10b.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/10b.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Fil des panneaux continnu, assemblage robuste par tenon-mortaise traditionnel. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Fil des panneaux continnu, assemblage robuste par tenon-mortaise traditionnel. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -459,12 +459,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/10c.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;8&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/10c.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/10c.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Dressing débouchant en panneau médium sans formaldéhide. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Dressing débouchant en panneau médium sans formaldéhide. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -519,12 +519,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/11a.jpg&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;2048x1536&#34; data-orientation=&#34;8&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/11a.thumbnail.jpg&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/11a.thumbnail.jpg&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Porte d&amp;#39;entrée à grand cadre en chène massif, moulurée et à motif losange. Isolée en double épaisseur par de la fibre de bois en plaques prise en sandwitch entre les deux parements.  &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Porte d&amp;#39;entrée à grand cadre en chène massif, moulurée et à motif losange. Isolée en double épaisseur par de la fibre de bois en plaques prise en sandwitch entre les deux parements.  
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -534,12 +534,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/11b.jpg&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;2048x1536&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/11b.thumbnail.jpg&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/11b.thumbnail.jpg&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Portes d&amp;#39;atelier en chène massif. repliables sur elles-mêmes en accordéon. Construction traditionelle à tenon-mortaise et écharpe de solidité.  &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Portes d&amp;#39;atelier en chène massif. repliables sur elles-mêmes en accordéon. Construction traditionelle à tenon-mortaise et écharpe de solidité.  
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -549,12 +549,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/11c.jpg&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;2048x1536&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/11c.thumbnail.jpg&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/11c.thumbnail.jpg&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Porte sur mesures en chène massif. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Porte sur mesures en chène massif. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -564,12 +564,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/11.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;6&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/11.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/11.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Table basse poirier-frêne incrustée de filets,plateau cintré et assemblé. Ouvrage d&amp;#39;études de 2003 &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Table basse poirier-frêne incrustée de filets,plateau cintré et assemblé. Ouvrage d&amp;#39;études de 2003 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -579,12 +579,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/12.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;8&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/12.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/12.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Cuisine intégrée 100% en massif. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Cuisine intégrée 100% en massif. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -594,12 +594,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/13.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/13.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/13.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Essences frêne et noyer massif. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Essences frêne et noyer massif. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -609,12 +609,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/14.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;6&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/14.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/14.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Crédence en granit du labrador (canada) &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Crédence en granit du labrador (canada) 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -624,12 +624,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/15.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/15.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/15.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Tiroirs à fil continnu. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Tiroirs à fil continnu. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -639,12 +639,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/16.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/16.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/16.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Finition huile dure et cire. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Finition huile dure et cire. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -654,12 +654,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/17.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/17.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/17.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Casserollier profond et assemblage traditionnel de haute qualité par queue d&amp;#39;arronde de menuisier. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Casserollier profond et assemblage traditionnel de haute qualité par queue d&amp;#39;arronde de menuisier. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -669,12 +669,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/18b.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/18b.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/18b.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Fausse façade et compartiment à éponges escamotable. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Fausse façade et compartiment à éponges escamotable. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -684,12 +684,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/18.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/18.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/18.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Compartiments à couverts en bois. Tiroirs à sortie totale et amortisseur. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Compartiments à couverts en bois. Tiroirs à sortie totale et amortisseur. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -699,27 +699,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/19.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;8&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/19.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/19.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Finition du plan de travail huile dure blanchie Auro no 165. Prises éscamotables. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
-    &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-
-&lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-  &lt;a href=&#34;http://100pour100massif.fr/images/gallery/20.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;6&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/20.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
-  &lt;/a&gt;
-
-
-  &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Finition du plan de travail huile dure blanchie Auro no 165. Prises éscamotables. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -729,12 +714,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/21.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;6&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/21.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/21.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Plan de travail en frêne massif épaisseur 38mm. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Plan de travail en frêne massif épaisseur 38mm. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -744,12 +729,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/22.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/22.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/22.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Ensemble contemporain mais construction traditionelle et 100% écologique. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Ensemble contemporain mais construction traditionelle et 100% écologique. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -759,12 +744,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/23.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3264x2448&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/23.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/23.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Boite à bijoux d&amp;#39;ébeniste. Motif marquetterie rose des vents sur placage en frisage. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Boite à bijoux d&amp;#39;ébeniste. Motif marquetterie rose des vents sur placage en frisage. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -789,12 +774,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/26.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;5184x3456&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/26.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/26.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Meuble de salle de bains en frêne huilé blanchi. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Meuble de salle de bains en frêne huilé blanchi. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -804,12 +789,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/27.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;5184x3456&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/27.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/27.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Fabrication sur-mesures. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Fabrication sur-mesures. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -819,12 +804,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/28.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;5184x3456&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/28.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/28.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Etagères massif sur consoles en frêne. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Etagères massif sur consoles en frêne. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -834,12 +819,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/29.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;5184x3456&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/29.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/29.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Façades à fil continnu sans poignées et coulisses à amortisseur. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Façades à fil continnu sans poignées et coulisses à amortisseur. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -864,12 +849,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/40.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/40.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/40.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Boite à tiroirs d&amp;#39;ébeniste. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Boite à tiroirs d&amp;#39;ébeniste. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -879,12 +864,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/41.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/41.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/41.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Tiroirs de petite dimension à queue d&amp;#39;arronde. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Tiroirs de petite dimension à queue d&amp;#39;arronde. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -894,12 +879,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/42.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/42.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/42.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Cotés à fil continnu et à queues d&amp;#39;arronde. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Cotés à fil continnu et à queues d&amp;#39;arronde. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -909,12 +894,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/43.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/43.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/43.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Tiroirs sur coulisseaux bois et boutons lentille. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Tiroirs sur coulisseaux bois et boutons lentille. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -924,12 +909,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/44.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/44.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/44.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Lit 160x200 en chène massif &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Lit 160x200 en chène massif 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -939,12 +924,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/45.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/45.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/45.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Tête de lit matelassée en mousse à mémoire de forme. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Tête de lit matelassée en mousse à mémoire de forme. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -954,12 +939,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/46.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/46.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/46.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Tiroir escamotable &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Tiroir escamotable 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -969,12 +954,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/47.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/47.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/47.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Détail de finition. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Détail de finition. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -984,12 +969,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/48.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/48.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/48.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Finition Huilé blanchi. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Finition Huilé blanchi. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -999,12 +984,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/49.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/49.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/49.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Boite à couture traditionelle d&amp;#39;ébeniste. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Boite à couture traditionelle d&amp;#39;ébeniste. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -1014,12 +999,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/50.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/50.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/50.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;doublage velours des compartiments. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    doublage velours des compartiments. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -1029,12 +1014,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/51.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/51.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/51.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Lit en frêne massif et incrustations en poirier.Panneaux en poirier. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Lit en frêne massif et incrustations en poirier.Panneaux en poirier. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -1044,12 +1029,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/52.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/52.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/52.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;détail des assemblages des cotés d&amp;#39;onglet.Finition huilée blanchie. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    détail des assemblages des cotés d&amp;#39;onglet.Finition huilée blanchie. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -1059,12 +1044,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/53.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;8&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/53.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/53.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Vitrine d&amp;#39;armes en noyer massif et verre trempé. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Vitrine d&amp;#39;armes en noyer massif et verre trempé. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -1074,12 +1059,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/54.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;8&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/54.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/54.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;étagères sur taquets spécial verre. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    étagères sur taquets spécial verre. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -1089,12 +1074,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/55.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/55.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/55.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Tiroirs noyer massif à queue d&amp;#39;arronde et serrure à clé. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Tiroirs noyer massif à queue d&amp;#39;arronde et serrure à clé. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -1104,12 +1089,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/56.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/56.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/56.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Moulure de style. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Moulure de style. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -1119,12 +1104,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/57.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;8&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/57.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/57.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Interieur en velours délicat. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Interieur en velours délicat. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -1134,12 +1119,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/58.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;8&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/58.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/58.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Ratelier habillé en velours &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Ratelier habillé en velours 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -1149,12 +1134,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/59.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/59.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/59.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Cannonière en velours &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Cannonière en velours 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -1164,12 +1149,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/60.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/60.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/60.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;l&amp;#39;importance des bonnes finitions. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    l&amp;#39;importance des bonnes finitions. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -1179,12 +1164,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/61.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/61.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/61.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Tiroir en velours à queue d&amp;#39;aronde. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Tiroir en velours à queue d&amp;#39;aronde. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -1194,12 +1179,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/62.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/62.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/62.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Poignées escamotables en laiton vieux.Finition vernis incolore polyuréthane. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Poignées escamotables en laiton vieux.Finition vernis incolore polyuréthane. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -1209,12 +1194,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/63.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;8&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/63.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/63.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Agencement sous éscalier d&amp;#39;inspiration Phillip Janssens. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Agencement sous éscalier d&amp;#39;inspiration Phillip Janssens. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -1224,12 +1209,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/64.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;8&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/64.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/64.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Portes en mélaminé gris. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Portes en mélaminé gris. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -1239,12 +1224,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/65.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;8&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/65.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/65.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Casiers en frêne verni et rangements sous escalier. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Casiers en frêne verni et rangements sous escalier. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -1254,12 +1239,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/66.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/66.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/66.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Porte-manteaux d&amp;#39;invités &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Porte-manteaux d&amp;#39;invités 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -1269,12 +1254,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/67.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;6&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/67.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/67.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Discret si vide. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Discret si vide. 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -1284,12 +1269,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/68.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/68.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/68.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;caissons sur-mesure &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    caissons sur-mesure 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -1314,12 +1299,12 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/70.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/70.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/70.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Ligne moderne et soignée &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Ligne moderne et soignée 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -1328,13 +1313,13 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-  &lt;a href=&#34;http://100pour100massif.fr/images/gallery/71.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/71.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+  &lt;a href=&#34;http://100pour100massif.fr/images/gallery/71a.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/71a.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Serre géodésique féquence 3 de diametre 4m66 &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Serre géodésique féquence 3 de diametre 4m66 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -1344,7 +1329,22 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
   &lt;a href=&#34;http://100pour100massif.fr/images/gallery/72.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/72.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/72.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Détail: structure en mélèze, bâche horticole. &#34; /&gt;
+  &lt;/a&gt;
+
+
+  &lt;figcaption itemprop=&#34;caption description&#34;&gt;
+    Détail: structure en mélèze, bâche horticole. 
+    &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+
+
+&lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+  &lt;a href=&#34;http://100pour100massif.fr/images/gallery/Document%20sans%20nom&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;&#34; data-orientation=&#34;&#34;&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/Document%20sans%20nom.thumbnail.static/images/gallery/Document%20sans%20nom&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
   &lt;/a&gt;
 
 
