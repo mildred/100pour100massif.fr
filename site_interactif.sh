@@ -38,28 +38,45 @@ update-submodule(){
 
 interactive_gallery_coments(){
 	( cd "$1"
-	for image in *; do
-	  case "$image" in
-	    *.thumbnail.*|*.txt)
-	      continue
-	      ;;
-	  esac
+        echo -n "Description pour l'image: "
+        read prefix
+        while true; do
+	        for image in $prefix*; do
+	          case "$image" in
+	            *.thumbnail.*|*.txt)
+	              continue
+	              ;;
+	          esac
 
-	  descfile="${image%.*}.txt"
-	  desc="$(cat "$descfile" 2>/dev/null)"
+	          descfile="${image%.*}.txt"
+	          desc="$(cat "$descfile" 2>/dev/null)"
 
-	  echo
-	  echo "Description pour $image"
-	  if [[ -n "$desc" ]]; then
-	    echo "$desc"
-	  fi
-	  echo -n "==> "
-	  read desc
+	          echo
+	          echo "Description pour $image"
+	          echo "(laisser vide pour ne rien changer, Ctrl-C pour annuler)"
+	          if [[ -n "$desc" ]]; then
+	            echo "Description actuelle: $desc"
+	          else
+	            echo "Pas de description actuelle"
+	          fi
+	          echo -n "==> "
+	          trap "break; trap - INT" INT
+	          read desc
+	          trap - INT
 
-	  if [[ -n "$desc" ]]; then
-	    echo "$desc" >"$descfile"
-	  fi
-	done
+	          if [[ -n "$desc" ]]; then
+	            echo "$desc" >"$descfile"
+	          fi
+	        done
+
+          echo
+          echo "(laisser vide pour revenir au menu)"
+          echo -n "Description pour une autre image: "
+          read prefix
+          if [ -z "$prefix" ]; then
+            break
+          fi
+        done
        	)
 }
 
