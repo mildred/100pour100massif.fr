@@ -56,11 +56,33 @@ Le profilage: juste après les opérations d'assemblage, il faut utiliser la tou
 À ce moment de la fabrication, les panneaux sont sortis du banc de collage et l'on doit les affleurer : cela consiste en un ponçage au gros grain pour faire disparaître les irrégularités entre les lames que l'on a collées. Vient ensuite la mise aux dimensions des panneaux et leur profilage à la toupie. 
 
 Dernière opération avant le collage, le ponçage final des chants intérieurs qui deviendront inaccessibles ainsi que des panneaux, et d'une manière générale,  tout ce qui ne pourra pas être affleuré ou  poncé
+
+
 Tout est prêt pour le collage. Un montage préalable"à blanc" aura été fait si l'ouvrage le nécessite. L’établi est rangé, la colle,  les cales et les serre-joints sont préparés à disposition, le créneau horaire qui va suivre est critique. Une fois le premier assemblage collé,  rien ne doit perturber le bon déroulement de l’opération. Le créneau est d'au maximum une demie heure, ce qui s'avère parfois court pour les plus grands ouvrages.
 Chaque assemblage collé doit recevoir une pression conséquente, et ce pendant au moins 1h30.
 La colle principalement utilisée est la "colle blanche", colle vinylique à l'eau, très simple et non toxique.Pour l’extérieur ou les assemblages confrontés à l'eau, on utilisera de la colle spéciale humidité ou de la colle polyuréthane.
 
-Site en construction
+Après durcissement de la colle, le serrage est démonté. les excédents de colle sont soigneusement retirés au ciseau à bois car ils risqueraient d'apparaître à la finition.
+Vient ensuite un affleurage de l'ensemble.
+Les quincailleries seront alors entaillées et installées et l'ouvrage monté avant la finition.
+
+Les quincailleries seront ensuite retirées puis vient un ponçage aux grains: P60,80,120 à la ponceuse à bande et P150 voire P180 à la ponceuse pneumatique orbitale.
+
+L'usinage de l'ouvrage est maintenant terminé.
+
+
+La finition:
+Si une teinte est prévue, elle sera appliquée maintenant manuellement au pinceau.
+Si l'ouvrage est huilé, les deux passes seront faites au pinceau ou au pistolet pour les plus gros ensembles, puis essuyé immédiatement avec un chiffon.
+Si l'ouvrage est verni, le mélange vernis/catalyseur/diluant sera appliqué au pistolet pneumatique.
+Après séchage de la première couche, le vernis est égrainé, c'est à dire qu'à l'aide d'un abrasif très fin (P280-320) l'on ponce toutes les aspérités du vernis.
+Vient alors la seconde et dernière couche qui comble les creux et s'étale uniformément.
+
+Reste à replacer les quincailleries , fixer les éléments de décoration, entrées de serrure etc...
+
+Et enfin, on intervient sur le chantier pour effectuer la pose.
+L'ouvrage est terminé.
+
 
 
 
