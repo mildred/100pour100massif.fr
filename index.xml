@@ -1482,13 +1482,103 @@ Traditionnel et authentique, on y trouve néanmoins des machines récentes et bi
 
 
 &lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-  &lt;a href=&#34;http://100pour100massif.fr/images/gallery/Document%20sans%20nom&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;&#34; data-orientation=&#34;&#34;&gt;
-      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/Document%20sans%20nom.thumbnail.static/images/gallery/Document%20sans%20nom&#34; itemprop=&#34;thumbnail&#34; alt=&#34;&#34; /&gt;
+  &lt;a href=&#34;http://100pour100massif.fr/images/gallery/82.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/82.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Lit 140x190 en pin massif teinté vernis, 2 grands tiroirs en dessous du lit. &#34; /&gt;
   &lt;/a&gt;
 
 
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Lit 140x190 en pin massif teinté vernis, 2 grands tiroirs en dessous du lit. 
+    &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+
+
+&lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+  &lt;a href=&#34;http://100pour100massif.fr/images/gallery/83.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;6&#34;&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/83.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;lit identique en pin massif, sommier en lattes brutes.  &#34; /&gt;
+  &lt;/a&gt;
+
+
+  &lt;figcaption itemprop=&#34;caption description&#34;&gt;
+    lit identique en pin massif, sommier en lattes brutes.  
+    &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+
+
+&lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+  &lt;a href=&#34;http://100pour100massif.fr/images/gallery/84.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/84.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Tete de lit en arc surbaissé &#34; /&gt;
+  &lt;/a&gt;
+
+
+  &lt;figcaption itemprop=&#34;caption description&#34;&gt;
+    Tete de lit en arc surbaissé 
+    &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+
+
+&lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+  &lt;a href=&#34;http://100pour100massif.fr/images/gallery/85.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/85.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;finition peinture à l&amp;#39;eau. 2 grands tiroirs en dessous du lit. &#34; /&gt;
+  &lt;/a&gt;
+
+
+  &lt;figcaption itemprop=&#34;caption description&#34;&gt;
+    finition peinture à l&amp;#39;eau. 2 grands tiroirs en dessous du lit. 
+    &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+
+
+&lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+  &lt;a href=&#34;http://100pour100massif.fr/images/gallery/86.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/86.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Grande table 220x110cm en chêne massif &#34; /&gt;
+  &lt;/a&gt;
+
+
+  &lt;figcaption itemprop=&#34;caption description&#34;&gt;
+    Grande table 220x110cm en chêne massif 
+    &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+
+
+&lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+  &lt;a href=&#34;http://100pour100massif.fr/images/gallery/87.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/87.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;Assemblage traditionnel tenon-mortaise et plateau assemblé à micro-entures, finition huile dure blanchie 2 couches &#34; /&gt;
+  &lt;/a&gt;
+
+
+  &lt;figcaption itemprop=&#34;caption description&#34;&gt;
+    Assemblage traditionnel tenon-mortaise et plateau assemblé à micro-entures, finition huile dure blanchie 2 couches 
+    &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+
+
+&lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+  &lt;a href=&#34;http://100pour100massif.fr/images/gallery/88.JPG&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;3648x2736&#34; data-orientation=&#34;1&#34;&gt;
+      &lt;img src=&#34;http://100pour100massif.fr/images/gallery/88.thumbnail.JPG&#34; itemprop=&#34;thumbnail&#34; alt=&#34;ligne actuelle, chic, élégante et sobre &#34; /&gt;
+  &lt;/a&gt;
+
+
+  &lt;figcaption itemprop=&#34;caption description&#34;&gt;
+    ligne actuelle, chic, élégante et sobre 
     &lt;span itemprop=&#34;copyrightHolder&#34;&gt;&lt;/span&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
