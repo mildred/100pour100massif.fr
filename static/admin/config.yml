@@ -53,3 +53,9 @@ collections:
       - name:   body
         label:  Contenu
         widget: markdown
+      - name:   weight
+        label:  Ordre
+        widget: number
+      - name:   img
+        label:  Image
+        widget: image
