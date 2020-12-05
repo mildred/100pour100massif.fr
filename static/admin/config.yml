@@ -20,3 +20,6 @@ collections:
       - name:   date
         label:  Date
         widget: datetime
+      - name:   body
+        label:  Contenu
+        widget: markdown
