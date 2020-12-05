@@ -1,0 +1,23 @@
+backend:
+  name: git-gateway
+  branch: netlify # Branch to update (optional; defaults to master)
+
+# Editorial workflow
+publish_mode: editorial_workflow
+
+media_folder: "static/media"
+public_folder: "/media"
+
+collections:
+  - name: "pages"  # in routes
+    label: "Pages" # in UI
+    folder: "content"
+    create: true
+    slug: "{{slug}}" # Filename template
+    fields: # front matter
+      - name:   title
+        label:  Titre
+        widget: string
+      - name:   date
+        label:  Date
+        widget: datetime
