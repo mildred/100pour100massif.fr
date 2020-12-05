@@ -23,3 +23,33 @@ collections:
       - name:   body
         label:  Contenu
         widget: markdown
+  - name: "pages"  # in routes
+    label: "Pages" # in UI
+    folder: "content"
+    create: true
+    slug: "{{slug}}"
+    fields: # front matter
+      - name:   title
+        label:  Titre
+        widget: string
+      - name:   date
+        label:  Date
+        widget: datetime
+      - name:   body
+        label:  Contenu
+        widget: markdown
+  - name: "post"  # in routes
+    label: "Posts" # in UI
+    folder: "content/post"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields: # front matter
+      - name:   title
+        label:  Titre
+        widget: string
+      - name:   date
+        label:  Date
+        widget: datetime
+      - name:   body
+        label:  Contenu
+        widget: markdown
