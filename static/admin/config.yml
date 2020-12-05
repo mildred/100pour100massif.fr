@@ -13,7 +13,6 @@ collections:
     label: "Page Principale" # in UI
     folder: "content/about"
     create: false
-    slug: "{{slug}}" # Filename template
     fields: # front matter
       - name:   title
         label:  Titre
