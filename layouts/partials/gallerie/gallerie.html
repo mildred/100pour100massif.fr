@@ -1,0 +1,35 @@
+<!-- Page Content - Gallerie -->
+{{ range $index, $element := .Data.Pages }}{{ if or (eq .Section "gallerie") }}
+
+    <div>
+        <hr class="section-heading-spacer">
+        <div class="clearfix"></div>
+        <h2 class="section-heading">{{ .Title }}</h2>
+        {{ .Content }}
+    </div>
+    <div>
+    {{ range $i, $image_path := .Params.images }}
+        {{ $full_image := resources.GetMatch $image_path }}
+        {{ $thumbnail := $full_image.Fit "300x300" }}
+        <a rel="gallery-{{ $index }}" href="{{ $full_image.RelPermalink }}" class="swipebox">
+            <img class="img-responsive" src="{{ $thumbnail.RelPermalink }}" alt="" />
+        </a>
+    {{ end }}
+    </div>
+
+    <!-- /.container -->
+{{ end }} {{ end }}
+
+<script type="text/javascript">
+;( function( $ ) {
+
+    $( '.swipebox' ).swipebox({
+        hideBarsDelay: 0,
+        loopAtEnd: true,
+    });
+
+} )( jQuery );
+</script>
+
+</section>
+
