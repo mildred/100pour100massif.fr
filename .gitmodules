@@ -1,4 +1,0 @@
-[submodule "publish"]
-	path = publish
-	url = git@github.com:mildred/100pour100massif.fr.git
-	branch = gh-pages
