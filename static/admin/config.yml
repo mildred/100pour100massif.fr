@@ -39,11 +39,11 @@ collections:
       - name:   body
         label:  Contenu
         widget: markdown
-  - name: "post"  # in routes
-    label: "Posts" # in UI
-    folder: "content/post"
+  - name: "presentation"  # in routes
+    label: "Présentation" # in UI
+    folder: "content/presentation"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
     fields: # front matter
       - name:   title
         label:  Titre
