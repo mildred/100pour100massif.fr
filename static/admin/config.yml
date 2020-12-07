@@ -72,10 +72,10 @@ collections:
       - name:   date
         label:  Date
         widget: datetime
-      - name:     weight
-        label:    Ordre
-        widget:   number
-        required: false
+      - name:    weight
+        label:   Ordre
+        widget:  number
+        default: 0
       - name:     images
         label:    Images
         widget:   list
