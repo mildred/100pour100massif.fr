@@ -3,7 +3,7 @@ date = "2015-07-18T14:08:45+02:00"
 draft = false
 title = "L'Arbre"
 weight = 2
-img = "img/arbre 2.jpg"
+img = "media/img/arbre 2.jpg"
 +++
 
 
@@ -14,6 +14,8 @@ Il est l'être vivant le plus durable, souvent centenaire, parfois millénaire, 
 Le plus vieux spécimen est un pin bristlecone, dans les Rocheuses, sa graine a germé il y a 5063 ans.
 
 Il peut être multiple, clône de lui-même, bouturé, lié par la racine sur des forêts entières, se soudant par les branches, se greffant d'un individu sur l'autre.
+
+<!--more-->
 
 Il communique, via ses racines, à ses congénaires moins âgés son savoir accumulé depuis des siècles: agressions, maladies, attaques en tout genre sont soigneusement répertoriées et communiquées aux plus jeunes individus. Le vieil arbre au milieu du potager est l'allié le plus utile de ce dernier.
 Il est Internet avant l'heure et livre de conaissances remarquables.

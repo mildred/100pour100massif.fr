@@ -1,15 +1,19 @@
+.navbar-fixed-top {
+  overflow: hidden
+}
 .navbar-brand {
   background: url(../images/logo1-600x300.png) no-repeat;
   transition: all 0.4s ease-in-out;
   text-indent: -9999px;
-  background-size: auto 50px;
-  width: 100px;
-  height: 50px;
-}
-html.scroll-top .navbar-brand {
+  background-size: auto 250px;
   width: 500px;
   height: 250px;
-  background-size: auto 250px;
+}
+html:not(.scroll-top) .navbar-brand {
+  background-size: auto 75px;
+  transform: scale(200%) translateY(7px);
+  width: 150px;
+  height: 75px;
 }
 
 body {

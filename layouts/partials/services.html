@@ -12,13 +12,15 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">{{ .Title }}</h2>
-                    {{ .Content }}
+                    <div class="summary">{{ .Summary }}</div>
+                    <div class="content" style="display: none">{{ .Content }}</div>
+                    {{ if .Truncated }}
+                        <a href="{{.RelPermalink}}">Lire plus</a>
+                    {{ end }}
                 </div>
-                {{ with .Params.img }}
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="{{ . }}" alt="">
+                    <img class="img-responsive" src="{{ (resources.Get (.Params.img)).RelPermalink }}" alt="">
                 </div>
-                {{ end }}
             </div>
 
         </div>
@@ -33,17 +35,19 @@
         <div class="container">
 
             <div class="row">
-                <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
+                <div class="col-lg-5 col-lg-offset-1 col-sm-push-6 col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">{{ .Title }}</h2>
-                    {{ .Content }}
+                    <div class="summary">{{ .Summary }}</div>
+                    <div class="content" style="display: none">{{ .Content }}</div>
+                    {{ if .Truncated }}
+                        <a href="{{.RelPermalink}}">Lire plus</a>
+                    {{ end }}
                 </div>
-                {{ with .Params.img }}
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                  <img class="img-responsive" src="{{ . }}" alt="">
+                    <img class="img-responsive" src="{{ (resources.Get (.Params.img)).RelPermalink }}" alt="">
                 </div>
-                {{ end }}
             </div>
 
         </div>

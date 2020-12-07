@@ -2,12 +2,14 @@
 date = "2015-07-18T14:08:29+02:00"
 draft = false
 title = "fabriquer"
-img = "img/travail bois.jpg"
+img = "media/img/travail bois.jpg"
 weight = 4
 +++
 L'histoire technique de votre meuble. 
 
 La première étape consiste à se fournir en matière première : il faut du bois sec, avec peu ou pas de défauts, rectiligne et sans nerf ( le nerf, c'est les tensions internes qui s'expriment quand l'on scie le bois : on le voit se tordre au sciage)
+
+<!--more-->
 
 Il est devenu difficile de trouver du bois correct aujourd'hui car la plupart des scieries ont mises la clé sous la porte, faute de compétitivité face aux rouleaux compresseurs de la grande industrie mondialisée.
 Contrairement à ces derniers, il subsiste de petites scieries où l'on trouve encore du bois éthique:

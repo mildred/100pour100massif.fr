@@ -2,7 +2,7 @@
 date = "2015-07-18T14:53:21+02:00"
 draft = false
 title = "la corporation"
-img = "img/corporation.jpg"
+img = "media/img/corporation.jpg"
 weight = 3
 +++
 
@@ -10,6 +10,8 @@ Depuis le XII<sup>ème</sup> siècle, les métiers sont organisés en corporatio
  La corporation, c'est une organisation qui regroupe plusieurs fonctions : c'est un syndicat qui veille aux intérêts de la profession ; elle régule les prix, organise les conditions de commercialisation, c'est un organisme de formation professionnelle. Il y a un monopole : il faut en être pour exercer, un individu venu de nulle part ne peut pas exercer, c'est un organisme de normalisation, où il existe des règles techniques bien précises, une commission disciplinaire interne.  Mais c'est aussi la sécurité sociale, la caisse de retraite et l'assurance chômage avant l'heure, une famille proffesionnelle donc.
  Les huissiers, magistrats, médecins, notaires actuels fonctionnent partiellement encore sur ce modèle : ils ont le monopole de leur profession, ils s'organisent en ordre, en justice interne...
 Cette structure précieuse et efficace sera balayée et remplacée par le libéralisme après la révolution française de 1789.
+
+<!--more-->
 
 À la suite de l'ouverture sur le monde des conquêtes du XVII siècle et de l'apparition des bois précieux, la corporation des ébénistes apparaît en 1743. Elle se distingue de la corporation des menuisiers de grande et de petite cognée (charpenterie et menuiserie d'huis).
 L'on voit alors apparaître l'estampille, signature de l'ouvrage par l’ébéniste, souvent ses initiales, qui devient même obligatoire sous la Régence.
