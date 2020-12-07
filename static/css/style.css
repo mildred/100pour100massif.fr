@@ -11,9 +11,28 @@
 }
 html:not(.scroll-top) .navbar-brand {
   background-size: auto 75px;
-  transform: scale(200%) translateY(7px);
+  transform: scale(200%) translateY(7px) translateX(30px);
   width: 150px;
   height: 75px;
+}
+
+.navbar .logotext {
+  font-family: "Trajan";
+  text-align: right;
+  clear: right;
+  padding: 0 15px;
+  color: #777;
+}
+.navbar .logotext .subtext {
+  color: #bbb;
+}
+html.scroll-top .navbar .logotext {
+  display: none;
+}
+
+.navbar-collapse.collapse.in {
+  background-color: #f8f8f8;
+  isolation: isolate;
 }
 
 body {
