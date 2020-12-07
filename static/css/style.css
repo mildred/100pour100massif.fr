@@ -2,7 +2,7 @@
   overflow: hidden
 }
 .navbar-brand {
-  background: url(../images/logo1-600x300.png) no-repeat;
+  background: url(../img/logo1-600x300.png) no-repeat;
   transition: all 0.4s ease-in-out;
   text-indent: -9999px;
   background-size: auto 250px;
