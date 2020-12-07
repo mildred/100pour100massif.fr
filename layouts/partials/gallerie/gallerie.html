@@ -1,5 +1,5 @@
 <!-- Page Content - Gallerie -->
-{{ range $index, $element := .Data.Pages }}{{ if or (eq .Section "gallerie") }}
+{{ range $index, $element := .Data.Pages.ByWeight }}{{ if or (eq .Section "gallerie") }}
 
     <div>
         <hr class="section-heading-spacer">

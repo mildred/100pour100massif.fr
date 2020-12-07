@@ -30,15 +30,16 @@ collections:
     create: true
     slug: "{{slug}}"
     fields: # front matter
-      - name:   title
-        label:  Titre
-        widget: string
-      - name:   date
-        label:  Date
-        widget: datetime
-      - name:   body
-        label:  Contenu
-        widget: markdown
+      - name:     title
+        label:    Titre
+        widget:   string
+      - name:     date
+        label:    Date
+        widget:   datetime
+      - name:     body
+        label:    Contenu
+        widget:   markdown
+        required: false
   - name: "presentation"  # in routes
     label: "Présentation" # in UI
     folder: "content/presentation"
@@ -71,12 +72,14 @@ collections:
       - name:   date
         label:  Date
         widget: datetime
-      - name:   weight
-        label:  Ordre
-        widget: number
-      - name:   images
-        label:  Images
-        widget: list
+      - name:     weight
+        label:    Ordre
+        widget:   number
+        required: false
+      - name:     images
+        label:    Images
+        widget:   list
+        required: false
         field:
           name:   image
           label:  Image
@@ -84,7 +87,8 @@ collections:
           media_library:
             config:
               multiple: true
-      - name:   body
-        label:  contenu
-        widget: markdown
+      - name:     body
+        label:    contenu
+        widget:   markdown
+        required: false
 
