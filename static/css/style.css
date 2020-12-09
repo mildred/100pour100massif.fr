@@ -138,6 +138,29 @@
   }
 }
 
+/* very narrow page, reduce logo */
+@media (min-width: 400px) and (not (min-width:600px)) {
+  .c-navbar__brand {
+    background-size: 400px auto;
+    width: 400px;
+    height: 200px;
+  }
+}
+@media (min-width: 300px) and (not (min-width:400px)) {
+  .c-navbar__brand {
+    background-size: 300px auto;
+    width: 300px;
+    height: 150px;
+  }
+}
+@media (min-width: 200px) and (not (min-width:300px)) {
+  .c-navbar__brand {
+    background-size: 200px auto;
+    width: 200px;
+    height: 100px;
+  }
+}
+
 footer {
   clear: both;
 }
