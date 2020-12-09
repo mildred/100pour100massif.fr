@@ -86,9 +86,14 @@ collections:
         widget:   list
         required: false
         field:
-          name:   prestation
-          label:  Prestation
-          widget: string
+          name:    prestation
+          label:   Prestation
+          widget:  select
+          options:
+            - cuisine
+            - dressing
+            - salle-de-bain
+            - autre
       - name:    weight
         label:   Ordre
         widget:  number
