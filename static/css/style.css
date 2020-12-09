@@ -127,7 +127,7 @@
     display: unset;
     position: fixed;
     top: 1em;
-    left: calc(100% - 5em);
+    left: calc(100vw - 5em);
   }
   .c-navbar__collapse {
     display: none;
