@@ -1,4 +1,5 @@
 ---
+title: Accueil
 layout: _default/index
 ---
 
