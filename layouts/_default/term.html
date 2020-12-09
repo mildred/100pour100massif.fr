@@ -1,4 +1,10 @@
-<section id="list">
+{{ partial "head.html" . }}
+
+<h1>{{ .Title }}</h1>
+
+{{ .Content }}
+
+<section id="term">
 
 <!-- Page Content -->
 {{ range $index, $page := .Pages }}
@@ -14,3 +20,8 @@
 {{ end }}
 
 </section>
+
+{{ partial "header.html" . }}
+{{ partial "footer.html" . }}
+
+

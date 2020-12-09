@@ -72,6 +72,14 @@ collections:
       - name:   date
         label:  Date
         widget: datetime
+      - name:     prestations
+        label:    Prestations
+        widget:   list
+        required: false
+        field:
+          name:   prestation
+          label:  Prestation
+          widget: string
       - name:    weight
         label:   Ordre
         widget:  number
