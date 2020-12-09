@@ -7,4 +7,4 @@ prestations:
   - cuisine
 ---
 
-Introduction aux photos de cuisine
+Certaines photos de cuisine.

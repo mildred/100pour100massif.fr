@@ -50,6 +50,9 @@ collections:
     folder: "content/prestations"
     create: true
     slug: "{{slug}}"
+    nested:
+      depth: 2
+      summary: '{{title}}'
     fields: # front matter
       - name:   title
         label:  Titre
