@@ -1,7 +1,7 @@
 +++
 date = "2015-07-18T14:08:29+02:00"
 draft = false
-title = "le bois"
+title = "Le bois"
 img = "media/img/palissandre-santos-260-x-32-cm.jpg"
 weight = 1
 +++
