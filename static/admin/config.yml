@@ -25,7 +25,7 @@ collections:
         label:  Contenu
         widget: markdown
   - name: "presentation"  # in routes
-    label: "Présentation" # in UI
+    label: "Philosophie" # in UI
     folder: "content/presentation"
     create: true
     slug: "{{slug}}"
