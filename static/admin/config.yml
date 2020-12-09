@@ -3,8 +3,8 @@ backend:
   #name: test-repo
   branch: netlify # Branch to update (optional; defaults to master)
 
-# Editorial workflow
-publish_mode: editorial_workflow
+# Editorial workflow (disabled for simplicity)
+# publish_mode: editorial_workflow
 
 media_folder: "assets/media"
 public_folder: "/media"
