@@ -45,6 +45,28 @@ collections:
       - name:   body
         label:  contenu
         widget: markdown
+  - name: "prestations"  # in routes
+    label: "Prestations" # in UI
+    folder: "content/prestations"
+    create: true
+    slug: "{{slug}}"
+    fields: # front matter
+      - name:   title
+        label:  Titre
+        widget: string
+      - name:   date
+        label:  Date
+        widget: datetime
+      - name:   weight
+        label:  Ordre
+        widget: number
+      - name:     img
+        label:    Image
+        widget:   image
+        required: false
+      - name:   body
+        label:  contenu
+        widget: markdown
   - name:   gallerie
     label:  Gallerie
     folder: content/gallerie
