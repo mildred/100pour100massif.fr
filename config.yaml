@@ -3,6 +3,8 @@ languageCode: fr-fr
 title: 100% Massif
 publishDir: publish
 theme: landing-page-hugo
+taxonomies:
+  prestation: prestations
 params:
   custom_css:
     - /css/style.css

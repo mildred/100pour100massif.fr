@@ -1,7 +1,7 @@
-.navbar-fixed-top {
+.c-navbar {
   overflow: hidden
 }
-.navbar-brand {
+.c-navbar__brand {
   background: url(../img/logo1-600x300.png) no-repeat;
   transition: all 0.4s ease-in-out;
   text-indent: -9999px;
@@ -9,39 +9,127 @@
   width: 500px;
   height: 250px;
 }
-html:not(.scroll-top) .navbar-brand {
-  background-size: auto 75px;
-  transform: scale(200%) translateY(7px) translateX(30px);
-  width: 150px;
-  height: 75px;
+
+/* long page */
+@media (min-height: 500px) {
+  html:not(.scroll-top) .c-navbar__header {
+    min-width: 350px;
+  }
+  html:not(.scroll-top) .c-navbar__brand {
+    background-size: auto 75px;
+    transform: scale(200%) translateY(7px) translateX(35px);
+    width: 150px;
+    height: 75px;
+  }
+  html.scroll-top .navbar .logotext {
+    display: none;
+  }
+  body {
+    transition: all 0.4s ease-in-out;
+    padding-top: 150px
+  }
+  html.scroll-top body {
+    padding-top: 250px
+  }
 }
 
-.navbar .logotext {
+/* short page */
+@media not (min-height: 500px) {
+  .c-navbar {
+    position: unset;
+    transform: unset;
+    -webkit-transform: unset;
+    -o-transform: unset;
+  }
+  .c-navbar .logotext {
+    display: none;
+  }
+}
+
+/* short and narrow page */
+@media (not (min-height: 500px)) and (not (min-width:1000px)) {
+  .c-navbar__toggle {
+    isolation: isolate;
+    z-index: 2;
+  }
+  .c-navbar__collapse {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: scroll;
+    isolation: isolate;
+    z-index: 1;
+  }
+  .c-navbar__right {
+    background-color: #f8f8f8;
+  }
+}
+
+.c-navbar .logotext {
   font-family: "Trajan";
   text-align: right;
   clear: right;
   padding: 0 15px;
   color: #777;
 }
-.navbar .logotext .subtext {
+.c-navbar .logotext .subtext {
   color: #bbb;
 }
-html.scroll-top .navbar .logotext {
-  display: none;
+
+.c-navbar__container::before, .c-navbar__container::after, .c-navbar__header::before, .c-navbar__header::after {
+  content: unset;
 }
 
-.navbar-collapse.collapse.in {
-  background-color: #f8f8f8;
-  isolation: isolate;
+/* wide page */
+@media (min-width:1000px) {
+  .c-navbar__container {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .c-navbar__toggle {
+    display: none;
+  }
+  ul.c-navbar__right {
+    display: flex;
+    flex-flow: row nowrap;
+  }
+  .c-navbar__collapse.collapse {
+    display: unset;
+  }
 }
 
-body {
-  transition: all 0.4s ease-in-out;
-  padding-top: 150px
-}
-
-html.scroll-top body {
-  padding-top: 250px
+/* narrow page */
+@media not (min-width:1000px) {
+  .c-navbar__header {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .c-navbar__brand {
+    clip-path: inset(0px 0px 10px 0px);
+  }
+  .c-navbar__toggle {
+    display: unset;
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+  }
+  .c-navbar__collapse {
+    display: none;
+  }
+  .c-navbar__container {
+    display: flex;
+    flex-flow: column nowrap;
+  }
 }
 
 footer {
@@ -50,7 +138,7 @@ footer {
 
 .intro-message > h1,
 h1, h2, h3, h4, h5,
-ul.navbar-nav, footer ul.list-inline {
+ul.nav, footer ul.list-inline {
   font-family: "Trajan";
 }
 

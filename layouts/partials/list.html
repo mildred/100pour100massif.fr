@@ -1,0 +1,16 @@
+<section id="list">
+
+<!-- Page Content -->
+{{ range $index, $page := .Pages }}
+    <article>
+        <hr class="section-heading-spacer">
+        <h2 class="section-heading">{{ .Title }}</h2>
+        <div class="summary">{{ $page.Summary }}</div>
+        <div class="content" style="display: none">{{ $page.Content }}</div>
+        {{ if $page.Truncated }}
+            <a href="{{.RelPermalink}}">Lire plus</a>
+        {{ end }}
+    </article>
+{{ end }}
+
+</section>
