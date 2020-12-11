@@ -10,8 +10,9 @@
     {{ range $i, $image_path := .Params.images }}
         {{ $full_image := resources.Get $image_path }}
         {{ $thumbnail := $full_image.Resize "x400" }}
+        {{ $optimized := $full_image.Resize "1080x" }}
         {{ if eq 0 $i }}
-            <a rel="gallery-{{ $index }}" href="{{ $full_image.RelPermalink }}" class="swipebox">
+            <a rel="gallery-{{ $index }}" href="{{ $optimized.RelPermalink }}" class="swipebox">
                 <img class="img-responsive" src="{{ $thumbnail.RelPermalink }}" alt="" />
             </a>
         {{end}}
@@ -21,7 +22,8 @@
         {{ if gt $i 0 }}
             {{ $full_image := resources.Get $image_path }}
             {{ $thumbnail := $full_image.Resize "x75" }}
-            <a rel="gallery-{{ $index }}" href="{{ $full_image.RelPermalink }}" class="swipebox">
+            {{ $optimized := $full_image.Resize "1080x" }}
+            <a rel="gallery-{{ $index }}" href="{{ $optimized.RelPermalink }}" class="swipebox">
                 <img class="img-responsive" src="{{ $thumbnail.RelPermalink }}" alt="" />
             </a>
         {{ end }}
