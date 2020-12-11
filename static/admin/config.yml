@@ -89,9 +89,10 @@ collections:
         required: false
         default:  ['autre']
         field:
-          name:    prestation
-          label:   Prestation
-          widget:  select
+          name:      prestation
+          label:     Prestation
+          widget:    select
+          collapsed: false
           options:
             - cuisine
             - dressing
@@ -106,9 +107,10 @@ collections:
         widget:   list
         required: false
         field:
-          name:   image
-          label:  Image
-          widget: image
+          name:      image
+          label:     Image
+          widget:    image
+          collapsed: false
           media_library:
             config:
               multiple: true
