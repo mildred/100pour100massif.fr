@@ -1,5 +1,5 @@
 ---
-title: Gallerie
+title: Photos
 ---
 
 Index de la gallerie
