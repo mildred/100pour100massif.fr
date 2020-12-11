@@ -185,11 +185,12 @@ ul.nav, footer ul.list-inline {
 
 article.article-photo {
   display: flex;
+  flex-wrap: wrap;
   align-content: stretch;
 }
 
 article.article-photo > * {
-  flex: 1 1 50%;
+  flex: 1 0 30em;
   margin: 1rem;
 }
 
