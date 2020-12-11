@@ -1,3 +1,7 @@
 *.swp
 *.swo
 *.~
+/hugo
+/hugo*.tar.gz
+/publish/
+/resources/

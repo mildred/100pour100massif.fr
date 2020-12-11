@@ -1,61 +1,22 @@
-<section id="services">
+<section id="services" class="container">
 
 <!-- Page Content -->
 {{ range $index, $element := (.GetPage "presentation").Pages }}
-    {{ if modBool $index 2 }}
-    <div class="content-section-a">
-
-        <div class="container">
-
-            <div class="row">
-                <div class="col-lg-5 col-sm-6">
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
-                    <h2 class="section-heading">{{ .Title }}</h2>
-                    <div class="summary">{{ .Summary }}</div>
-                    <div class="content" style="display: none">{{ .Content }}</div>
-                    {{ if .Truncated }}
-                        <a href="{{.RelPermalink}}">Lire plus</a>
-                    {{ end }}
-                </div>
-                <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="{{ (resources.Get (.Params.img)).RelPermalink }}" alt="">
-                </div>
-            </div>
-
-        </div>
-        <!-- /.container -->
-
+<article class="article-photo">
+    <div>
+        <hr class="section-heading-spacer">
+        <div class="clearfix"></div>
+        <h2 class="section-heading">{{ .Title }}</h2>
+        <div class="summary">{{ .Summary }}</div>
+        <div class="content" style="display: none">{{ .Content }}</div>
+        {{ if .Truncated }}
+            <a href="{{.RelPermalink}}">Lire plus</a>
+        {{ end }}
     </div>
-    <!-- /.content-section-a -->
-    {{ else }}
-
-    <div class="content-section-b">
-
-        <div class="container">
-
-            <div class="row">
-                <div class="col-lg-5 col-lg-offset-1 col-sm-push-6 col-sm-6">
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
-                    <h2 class="section-heading">{{ .Title }}</h2>
-                    <div class="summary">{{ .Summary }}</div>
-                    <div class="content" style="display: none">{{ .Content }}</div>
-                    {{ if .Truncated }}
-                        <a href="{{.RelPermalink}}">Lire plus</a>
-                    {{ end }}
-                </div>
-                <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                    <img class="img-responsive" src="{{ (resources.Get (.Params.img)).RelPermalink }}" alt="">
-                </div>
-            </div>
-
-        </div>
-        <!-- /.container -->
-
+    <div class="article-photo__image">
+        <img class="img-responsive" src="{{ (resources.Get (.Params.img)).RelPermalink }}" alt="">
     </div>
-    {{ end }}
-    <!-- /.content-section-b -->
+</article>
 {{ end }}
 
 </section>

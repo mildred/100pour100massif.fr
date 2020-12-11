@@ -1,27 +1,8 @@
 {{ partial "head.html" . }}
-
-<h1>{{ .Title }}</h1>
-
-{{ .Content }}
-
-<section id="term">
-
-<!-- Page Content -->
-{{ range $index, $page := .Pages }}
-    <article>
-        <hr class="section-heading-spacer">
-        <h2 class="section-heading"><a href="{{.RelPermalink}}">{{ .Title }}</a></h2>
-        <div class="summary">{{ $page.Summary }}</div>
-        <div class="content" style="display: none">{{ $page.Content }}</div>
-        {{ if $page.Truncated }}
-            <a href="{{.RelPermalink}}">Lire plus</a>
-        {{ end }}
-    </article>
-{{ end }}
-
-</section>
-
 {{ partial "header.html" . }}
+{{ partial "title.html" . }}
+{{ partial "content.html" . }}
+{{ partial "list.html" . }}
 {{ partial "footer.html" . }}
 
 

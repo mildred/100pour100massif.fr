@@ -38,6 +38,20 @@
         </div>
     </div>
 </footer>
+<script type="text/javascript">
+;( function( $ ) {
+
+    $( '.swipebox' ).swipebox({
+        hideBarsDelay: 0,
+        loopAtEnd: true,
+    });
+
+    $(".gallery-small").justifiedGallery({
+        rowHeight: 75,
+    });
+
+} )( jQuery );
+</script>
 {{ partial "js.html" . }}
 </body>
 </html>

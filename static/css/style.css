@@ -182,3 +182,29 @@ ul.nav, footer ul.list-inline {
   font-weight: bold;
   src: url(/fonts/TrajanPro-Bold.ttf);
 }
+
+article.article-photo {
+  display: flex;
+  align-content: stretch;
+}
+
+article.article-photo > * {
+  flex: 1 1 50%;
+  margin: 1rem;
+}
+
+article.article-photo:nth-child(odd) {
+  flex-direction: row;
+}
+
+article.article-photo:nth-child(even) {
+  flex-direction: row-reverse;
+}
+
+#title .intro-message {
+  padding: 0;
+}
+
+#title {
+  margin-bottom: 4rem;
+}

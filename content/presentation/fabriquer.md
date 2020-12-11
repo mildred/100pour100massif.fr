@@ -9,11 +9,11 @@ L'histoire technique de votre meuble.
 
 La première étape consiste à se fournir en matière première : il faut du bois sec, avec peu ou pas de défauts, rectiligne et sans nerf ( le nerf, c'est les tensions internes qui s'expriment quand l'on scie le bois : on le voit se tordre au sciage)
 
-<!--more-->
-
 Il est devenu difficile de trouver du bois correct aujourd'hui car la plupart des scieries ont mises la clé sous la porte, faute de compétitivité face aux rouleaux compresseurs de la grande industrie mondialisée.
 Contrairement à ces derniers, il subsiste de petites scieries où l'on trouve encore du bois éthique:
 Nous sommes, dans les alpes, au cœur d'une ressource sylvicole riche et la plupart des bois chez les grossistes viennent d'ailleurs.
+
+<!--more-->
 
 Je prends l'essentiel de mon bois à la scierie La Lèze, à l'albenc près de Tullins.
 Il est sec, beau et local.

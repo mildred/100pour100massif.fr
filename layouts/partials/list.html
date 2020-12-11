@@ -1,16 +1,51 @@
-<section id="list">
-
-<!-- Page Content -->
-{{ range $index, $page := .Pages }}
-    <article>
-        <hr class="section-heading-spacer">
-        <h2 class="section-heading"><a href="{{.RelPermalink}}">{{ .Title }}</a></h2>
-        <div class="summary">{{ $page.Summary }}</div>
-        <div class="content" style="display: none">{{ $page.Content }}</div>
-        {{ if $page.Truncated }}
-            <a href="{{.RelPermalink}}">Lire plus</a>
-        {{ end }}
+<section class="container">
+    {{ range $index, $element := .Data.Pages.ByWeight }}
+    <article class="article-photo">
+        <div>
+            <hr class="section-heading-spacer">
+            <div class="clearfix"></div>
+            <h2 class="section-heading"><a href="{{.RelPermalink}}">{{ .Title }}</a></h2>
+            <div class="summary">
+                {{ $element.Summary }}
+                {{ if $element.Truncated }}
+                <a href="{{.RelPermalink}}">Lire plus</a>
+                {{ end }}
+            </div>
+        </div>
+        <div class="article-photo__image">
+            {{ if isset .Params "image" }}
+                {{ $full_image := resources.Get .Params.image }}
+                {{ $thumbnail := $full_image.Resize "x400" }}
+                {{ $optimized := $full_image.Resize "1080x" }}
+                <a rel="gallery-{{ $index }}" href="{{ $optimized.RelPermalink }}" class="swipebox">
+                    <img class="img-responsive" src="{{ $thumbnail.RelPermalink }}" alt="" />
+                </a>
+            {{ else if isset .Params "images" }}
+                {{ range $i, $image_path := .Params.images }}
+                    {{ $full_image := resources.Get $image_path }}
+                    {{ $thumbnail := $full_image.Resize "x400" }}
+                    {{ $optimized := $full_image.Resize "1080x" }}
+                    {{ if eq 0 $i }}
+                        <a rel="gallery-{{ $index }}" href="{{ $optimized.RelPermalink }}" class="swipebox">
+                            <img class="img-responsive" src="{{ $thumbnail.RelPermalink }}" alt="" />
+                        </a>
+                    {{end}}
+                {{ end }}
+            {{ end }}
+            <div class="gallery-small">
+            {{ range $i, $image_path := .Params.images }}
+                {{ if gt $i 0 }}
+                    {{ $full_image := resources.Get $image_path }}
+                    {{ $thumbnail := $full_image.Resize "x75" }}
+                    {{ $optimized := $full_image.Resize "1080x" }}
+                    <a rel="gallery-{{ $index }}" href="{{ $optimized.RelPermalink }}" class="swipebox">
+                        <img class="img-responsive" src="{{ $thumbnail.RelPermalink }}" alt="" />
+                    </a>
+                {{ end }}
+            {{ end }}
+            </div>
+        </div>
     </article>
-{{ end }}
-
+    {{ end }}
 </section>
+
