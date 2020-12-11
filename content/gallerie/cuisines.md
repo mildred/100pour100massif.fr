@@ -5,8 +5,11 @@ prestations:
   - cuisine
 weight: 0
 images:
-  - /media/cuisine bard - IMG_20201203_132934.jpg
-  - /media/cuisine bard - IMG_20201203_132944.jpg
+  - /media/cuisine bard - IMG_20201203_132955.jpg
+  - /media/cuisine bard - IMG_20201203_133004.jpg
+  - /media/cuisine bard - IMG_20201203_133039.jpg
+  - /media/cuisine bard - IMG_20201203_133154.jpg
+  - /media/cuisine bard - IMG_20201203_133309.jpg
 ---
 
 Certaines photos de cuisine sur le chantier 123.
