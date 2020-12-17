@@ -50,7 +50,7 @@ collections:
         widget: markdown
         required: false
   - name: "categories"  # in routes
-    label: "Prestations" # in UI
+    label: "Catégories" # in UI
     folder: "content/categories"
     create: true
     slug: "{{slug}}"
@@ -67,7 +67,7 @@ collections:
       - name:   weight
         label:  Ordre
         widget: number
-      - name:     img
+      - name:     image
         label:    Image
         widget:   image
         required: false

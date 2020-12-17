@@ -1,9 +1,8 @@
 ---
 title: Cuisines
-image: /media/cuisine bard - IMG_20201203_132955.jpg
 date: 2020-12-17T17:13:28.320Z
 weight: 1
-img: /media/cuisine bard - IMG_20201203_133140.jpg
+image: /media/cuisine bard - IMG_20201203_133140.jpg
 ---
 * Cuisines 100% sur mesures, tout est possible en terme d'ajustage selon vos contraintes.
 * Toutes nos cuisines peuvent être personnalisées selon vos inspirations: bois, finition huilée, blanchie, vernie ou peinte, peinte à l'extérieur et naturelles à l'intérieur.
