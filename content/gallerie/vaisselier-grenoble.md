@@ -13,6 +13,6 @@ images:
   - /media/vaisselier-11.jpg
   - /media/vaisselier-12.jpg
 ---
-Visselier en Frêne massif, huilé naturel à l'intérieur, peinture Bio recette authentique à la caséinie/chaux/pigment, vitrine en verre  trempé et moulures vieillies.
+Vaisselier en Frêne massif, huilé naturel à l'intérieur, peinture Bio recette authentique à la caséinie/chaux/pigment, vitrine en verre  trempé et moulures vieillies.
 
 Etagères sur crémaillères et fond latté.
