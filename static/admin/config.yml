@@ -26,6 +26,7 @@ collections:
       - name:   body
         label:  Contenu
         widget: markdown
+        required: false
   - name: "presentation"  # in routes
     label: "Philosophie" # in UI
     folder: "content/presentation"
@@ -47,9 +48,10 @@ collections:
       - name:   body
         label:  contenu
         widget: markdown
-  - name: "prestations"  # in routes
+        required: false
+  - name: "categories"  # in routes
     label: "Prestations" # in UI
-    folder: "content/prestations"
+    folder: "content/categories"
     create: true
     slug: "{{slug}}"
     nested:
@@ -72,9 +74,10 @@ collections:
       - name:   body
         label:  contenu
         widget: markdown
-  - name:   gallerie
-    label:  Gallerie
-    folder: content/gallerie
+        required: false
+  - name:   realisations
+    label:  Réalisations
+    folder: content/realisations
     create: true
     fields:
       - name:   title
@@ -83,21 +86,26 @@ collections:
       - name:   date
         label:  Date
         widget: datetime
-      - name:     prestations
-        label:    Prestations
+      - name:     categories
+        label:    Catégories
         widget:   list
         required: false
         default:  ['autre']
         field:
-          name:      prestation
-          label:     Prestation
+          name:      categorie
+          label:     Catégorie
           widget:    select
           collapsed: false
           options:
-            - cuisine
-            - dressing
-            - salle-de-bain
-            - autre
+            - cuisines
+            - salles-de-bain
+            - vitrines-buffets-vaisseliers
+            - tables
+            - portes
+            - escaliers
+            - dressings
+            - lits
+            - divers
       - name:    weight
         label:   Ordre
         widget:  number

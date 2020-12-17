@@ -1,8 +1,8 @@
 ---
 title: St etienne de crossey
 date: 2020-12-17T18:32:52.869Z
-prestations:
-  - cuisine
+categories:
+  - cuisines
 weight: 2
 images:
   - /media/lopinet - P1130848.JPG

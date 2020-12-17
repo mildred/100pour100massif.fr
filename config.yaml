@@ -4,7 +4,7 @@ title: 100% Massif
 publishDir: publish
 theme: landing-page-hugo
 taxonomies:
-  prestation: prestations
+  categorie: categories
 params:
   custom_css:
     - /css/style.css

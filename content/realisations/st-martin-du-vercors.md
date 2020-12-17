@@ -1,8 +1,8 @@
 ---
 title: St martin du vercors
 date: 2020-12-17T17:33:41.436Z
-prestations:
-  - cuisine
+categories:
+  - cuisines
 weight: 0
 images:
   - /media/cuisine bard - IMG_20201203_133140.jpg
