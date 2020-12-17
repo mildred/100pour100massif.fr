@@ -16,8 +16,7 @@
             {{ if isset .Params "image" }}
                 {{ $full_image := resources.Get .Params.image }}
                 {{ $thumbnail := $full_image.Resize "x400" }}
-                {{ $optimized := $full_image.Resize "1080x" }}
-                <a rel="gallery-{{ $index }}" href="{{ $optimized.RelPermalink }}" class="swipebox">
+                <a rel="gallery-{{ $index }}" href="{{.RelPermalink}}">
                     <img class="img-responsive" src="{{ $thumbnail.RelPermalink }}" alt="" />
                 </a>
             {{ else if isset .Params "images" }}
